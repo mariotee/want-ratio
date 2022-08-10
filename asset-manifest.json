@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/want-ratio/static/css/main.d553047f.css",
+    "main.js": "/want-ratio/static/js/main.e8e1d0dc.js",
+    "static/js/787.f66f8e6d.chunk.js": "/want-ratio/static/js/787.f66f8e6d.chunk.js",
+    "index.html": "/want-ratio/index.html",
+    "main.d553047f.css.map": "/want-ratio/static/css/main.d553047f.css.map",
+    "main.e8e1d0dc.js.map": "/want-ratio/static/js/main.e8e1d0dc.js.map",
+    "787.f66f8e6d.chunk.js.map": "/want-ratio/static/js/787.f66f8e6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d553047f.css",
+    "static/js/main.e8e1d0dc.js"
+  ]
+}
