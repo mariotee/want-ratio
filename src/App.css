@@ -7,6 +7,33 @@
   pointer-events: none;
 }
 
+.any-modal {
+    height: 24rem;
+    width: 32rem;
+    background-color: white;
+    margin: 4rem 4rem;
+}
+
+.calc {
+    padding: 2rem 2rem;
+}
+
+.calc input {
+    display: block;
+}
+
+/* Chrome, Safari, Edge, Opera */
+.calc input::-webkit-outer-spin-button,
+.calc input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+.calc input[type=number] {
+  -moz-appearance: textfield;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
